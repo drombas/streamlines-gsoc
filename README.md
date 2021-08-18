@@ -22,7 +22,7 @@ Two datasets were used for benchmarking:
 
 Content of the notebooks:
 - Atlasing
-  - [Discrete bundle atlas construction](https://github.com/drombas/streamlines-gsoc/blob/main/code/atlasing/prob_atlas.ipynb)
+  - [Discrete bundle atlas construction](https://github.com/drombas/streamlines-gsoc/blob/main/code/atlasing/disc_atlas.ipynb)
   - [Probabilistic bundle atlas construction](https://github.com/drombas/streamlines-gsoc/blob/main/code/atlasing/prob_atlas.ipynb)
 - Halfway Streamline Linear Registration
   - [Demonstration](https://github.com/drombas/streamlines-gsoc/blob/main/code/hslr/hslr_demo.ipynb)
